@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arjunpatel7?tab=repositories](https://github.com/arjunpatel7?tab=repositories)
 
-- 💬 Ask me about **statistical paradoxes or what I'm working at over at Speeko**
+- 💬 Ask me about **statistical paradoxes**
 
 - 📫 How to reach me **arjunkirtipatel@gmail.com**
 
