@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Patel</h1>
 <h3 align="center">A scrappy data scientist with an entrepreneurial spirit</h3>
 
-- 🌱 I’m currently learning **about finetuning LLMs to cool and innovative tasks!**
+- 🌱 I’m currently learning **about finetuning LLMs for cool and innovative tasks!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arjunpatel7?tab=repositories](https://github.com/arjunpatel7?tab=repositories)
 
